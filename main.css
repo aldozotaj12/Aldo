@@ -1,0 +1,16 @@
+section{
+	height: 500px;
+	background-color: blue;
+}
+h1{
+	color: white;
+}
+div p{
+	font-size: 14px;
+}
+div img{
+	width: 500px;
+}
+ul li{
+	font-size: 1.75rem;
+}
